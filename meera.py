@@ -93,3 +93,14 @@ if st.button("Send") and user_input:
 
 if not user_input:
     st.write("Type your message and press 'Send'.")
+
+
+
+
+
+
+
+
+
+
+####################### Changed for deteching changes #########
